@@ -1,49 +1,19 @@
-# Day 01 - C Interview Programs
+# 30 Days C programming Preparation
 
-## 📌 Topics Covered
-- Conditions
+This repository contains daily C programming  questions and solutions from basic to advanced.
+
+## Topics Covered
+- Basics
 - Loops
-- Number Programs
+- Arrays
+- Strings
+- Sorting
+- Searching
+- Recursion
+- Pointers
+- Structures
+- Linked Lists
 
----
-
-## ✅ Programs
-
-### 1. Even or Odd Number
-Check whether a number is even or odd.
-
-### 2. Largest of Three Numbers
-Find the largest among three numbers.
-
-### 3. Prime Number Check
-Check whether a number is prime or not.
-
-### 4. Reverse a Number
-Reverse the digits of a given number.
-
-### 5. Palindrome Number
-Check whether a number is palindrome.
-
----
-
-## 🛠️ Language Used
-- C Programming
-
----
-
-## ▶️ How to Run
-
-Compile:
-```bash
-gcc filename.c -o output
-```
-
-Run:
-```bash
-./output
-```
-
----
-
-## 🎯 Goal
-Daily practice of C interview programs from basic to advanced for placements and problem-solving improvement.
+## Goal
+To improve problem-solving 
+through consistent daily coding practice.
